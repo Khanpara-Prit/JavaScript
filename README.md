@@ -18,20 +18,6 @@ A structured JavaScript learning repository covering **fundamentals to advanced 
 * Error Handling
 * Advanced Topics
 
-## 📂 Files
-
-```text
-JavaScript/
-├── README.md
-├── JavaScript(Basic).md
-├── Task.js
-├── Task2.js
-├── dom.html
-├── dom.css
-├── dom.js
-└── image/
-```
-
 ## 🎯 Goal
 
 Learn JavaScript from **beginner → advanced**, practice the concepts with examples, and use them to create interactive web experiences.
